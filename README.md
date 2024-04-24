@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **tangjiaoshou55/tangjiaoshou55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats-pi-ruby-84.vercel.app/api/top-langs/?username=tangjiaoshou55)](https://github.com/anuraghazra/github-readme-stats)
+My name is Johnathan, a Computer Science student in University at Buffalo. 
+
+### **About me**
+❤️ I'm passionate about learning and coding in interesting things.   
+🌱 I’m currently learning Swift & Machine Learning  
+⚡ I'm interesting in Python / Java / Artificial Intelligence / data structure / Game development  
+📫 Email me at: 2412626024@qq.com <br /><br />
+
+[![Top Langs](https://github-readme-stats-pi-ruby-84.vercel.app/api/top-langs/?username=tangjiaoshou55&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
