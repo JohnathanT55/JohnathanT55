@@ -23,7 +23,7 @@ My name is Johnathan, a Computer Science student in University at Buffalo.
 ⚡ I'm interesting in Python / Java / Artificial Intelligence / Game development  
 📫 Email me at: 2412626024@qq.com <br /><br />
 
-[![Top Langs](https://github-readme-stats-pi-ruby-84.vercel.app/api/top-langs/?username=tangjiaoshou55&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-pi-ruby-84.vercel.app/api/top-langs/?username=JohnathanT55&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
