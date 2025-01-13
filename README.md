@@ -21,7 +21,7 @@ My name is Johnathan, a Computer Science student in University at Buffalo.
 ❤️ I'm passionate about learning and coding in interesting things.   
 🌱 I’m currently learning Swift & Audio Signal Processing & Machine Learning   
 ⚡ I'm interesting in Python / Java / Artificial Intelligence / Game development  
-📫 Email me at: 2412626024@qq.com <br /><br />
+📫 Email me at: tangjiaoshou55@gmail.com <br /><br />
 
 [![Top Langs](https://github-readme-stats-pi-ruby-84.vercel.app/api/top-langs/?username=JohnathanT55&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
