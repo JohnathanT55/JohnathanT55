@@ -31,6 +31,6 @@ My name is Johnathan, a Computer Science student in University at Buffalo.
 
 ### **关于我**
 ❤️ 我热衷于学习和编码有趣的事情。  
-🌱 我目前正在学习 机器学习，软件安全分析，和音频信号处理 
+🌱 我目前正在学习 机器学习，软件安全分析，和音频信号处理  
 ⚡ 我对 Python / Java / 人工智能 / 游戏开发感兴趣    
 📫 邮箱：2412626024@qq.com
